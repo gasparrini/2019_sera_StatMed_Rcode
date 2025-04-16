@@ -4,7 +4,7 @@
 
 A meta-analytical framework to model potentially complex patterns of eﬀect sizes through an extended and ﬂexible structure of ﬁxed and random terms. This deﬁnition includes, as special cases, a variety of meta-analytical models that have been separately proposed in the literature, such as multivariate, network, multilevel, dose-response, and longitudinal meta-analysis and meta-regression. This extended meta-analytical framework is illustrated in:
 
-Sera F, Armstrong B, Blangiardo M, Gasparrini A. An extended mixed-effects framework for meta-analysis. *Statistics in Medicine*. 2019;38(29):5429-5444. [[freely available here](http://www.ag-myresearch.com/2019_sera_statmed.html)]
+Sera F, Armstrong B, Blangiardo M, Gasparrini A. An extended mixed-effects framework for meta-analysis. *Statistics in Medicine*. 2019;38(29):5429-5444. DOI: 10.1002/sim.8362. PMID: 31647135. [[freely available here](http://www.ag-myresearch.com/2019_sera_statmed.html)]
 
 The article also presents the [R package mixmeta](https://github.com/gasparrini/mixmeta) that implements the extended meta-analytical framework and is used to perform the examples in of applications in the article.
 
